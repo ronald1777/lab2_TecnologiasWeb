@@ -9,8 +9,8 @@ So be welcome to Ramon's story and lets's begin thinking...
 
 Instructions:
 
-
-
+1. Download the content of this repository
+2. Enter 
  
                                                                                                     
                                                                                                     
